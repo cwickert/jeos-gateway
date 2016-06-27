@@ -9,11 +9,11 @@ OpenVPN gateway based on SLE 12 JeOS
 3. Install software with
     zypper in openvpn dnsmasq
 
-== Configuration
+## Configuration
 
 
 
-== Todo
+## Todo
 
 * Disable logging to tty
 * Create aliased network devices
