@@ -8,12 +8,13 @@ OpenVPN gateway based on SLES 12 JeOS
    ```
    SUSEconnect -e john.doe@example.com -r <your_key>
    ```
+
 3. Update the OS with
    ```
    zypper patch
    ```
 
-3. Install software with
+4. Install software with
    ```
    zypper in openvpn dnsmasq
    ```
