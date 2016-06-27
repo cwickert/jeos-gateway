@@ -11,6 +11,7 @@ OpenVPN gateway based on SLES 12 JeOS
 3. Install software with
 
     zypper in openvpn dnsmasq
+    foobar
 
 ## Configuration
 
