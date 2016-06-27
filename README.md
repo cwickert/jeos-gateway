@@ -5,9 +5,12 @@ OpenVPN gateway based on SLES 12 JeOS
 
 1. Install SLE 12 SP1 JeOS
 2. Register your machine with
-
    ```
    SUSEconnect -e john.doe@example.com -r <your_key>
+   ```
+3. Update the OS with
+   ```
+   zypper patch
    ```
 
 3. Install software with
